@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>BenchPrep Oidc Login</h1>
+
+<p>
+<button  onclick="googlelogin()" >Google Login</button>
+</p>
+
+<p>
+  <button  onclick="auhFail()" >Authentication Failure</button>
+  </p>
+<script>
+function googlelogin() {
+  window.location.href='https://example.com?accessToken=L4boMLZARHzYer3ybFPWHzYer3';
+
+}
+function auhFail() {
+  window.location.href='https://example.com?accessToken=';
+
+}
+</script>
+
+</body>
+</html>

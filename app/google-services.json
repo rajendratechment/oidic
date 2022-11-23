@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "544604496565",
+    "project_id": "quick-start-demo-9314f",
+    "storage_bucket": "quick-start-demo-9314f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544604496565:android:30aaf2512d64e222ae14fc",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544604496565-80vfk40ur8usn3aknc2ass2as13u18fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeRv6g_mqCfaqrQkHOhdDpulyjxSjN9Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544604496565-80vfk40ur8usn3aknc2ass2as13u18fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544604496565:android:7c1fda98fcf1f9e4ae14fc",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.deeplinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544604496565-80vfk40ur8usn3aknc2ass2as13u18fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeRv6g_mqCfaqrQkHOhdDpulyjxSjN9Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544604496565-80vfk40ur8usn3aknc2ass2as13u18fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544604496565:android:04e40785f4c8d0fdae14fc",
+        "android_client_info": {
+          "package_name": "com.techment.benchprepoidcsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544604496565-80vfk40ur8usn3aknc2ass2as13u18fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeRv6g_mqCfaqrQkHOhdDpulyjxSjN9Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544604496565-80vfk40ur8usn3aknc2ass2as13u18fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

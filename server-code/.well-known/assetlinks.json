@@ -1,0 +1,6 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.techment.benchprepoidcsample",
+                 "sha256_cert_fingerprints": ["DC:A3:FD:DC:FA:B6:B2:39:F9:EA:E6:25:78:C5:68:97:84:8D:42:5F:B3:18:E1:A3:3C:15:1B:B2:EF:DA:32:B0"] }
+  }]
+  
