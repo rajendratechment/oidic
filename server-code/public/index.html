@@ -2,16 +2,22 @@
 <html>
 <body>
 
-<h1>BenchPrep Oidc Login</h1>
-
-<p>
-<button  onclick="googlelogin()" >Google Login</button>
-</p>
-
-<p>
-  <button  onclick="auhFail()" >Authentication Failure</button>
+  <p>
+    <a href="benchprep://pmi?accesstoken=eweweewewe">Deeplink</a>
   </p>
-<script>
+<p>Weblink</p>
+  <p>
+    <button  onclick="googlelogin()" >Google Login</button>
+  </p>
+
+  <p>
+    <button  onclick="auhFail()" >Authentication Failure</button>
+  </p>
+
+<p>
+  <a href="https://benchprepoidcsaple.page.link/deeplink">Dynamic Link</a>
+</p>
+  <script>
 function googlelogin() {
   window.location.href='https://benchprep.com/deeplink?accessToken=L4boMLZARHzYer3ybFPWHzYer3';
 
@@ -21,6 +27,7 @@ function auhFail() {
 
 }
 </script>
+
 
 </body>
 </html>
