@@ -20,20 +20,15 @@
                 android:name="android.app.lib_name"
                 android:value="" />
 
-            <intent-filter android:autoVerify="true">
+            <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
 
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
 
-                <data
-                    android:host="benchprep.com"
-                    android:pathPrefix="/deeplink"
-                    android:scheme="https" />
-                <data
-                    android:host="benchprep.com"
-                    android:pathPrefix="/deeplink"
-                    android:scheme="http" />
+                <data android:scheme="benchprep"
+                    android:host="pmi"
+                    />
             </intent-filter>
         </activity>
         <activity
